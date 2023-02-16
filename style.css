@@ -1,0 +1,39 @@
+#main{
+    background-color: rgb(210, 207, 207);
+    text-align: center;
+    padding-top:  1rem;
+    border-radius: 1rem;
+   
+}
+#img-div{
+    background-color: #fff;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+#img-caption{
+    padding-bottom: 1.5rem;
+}
+.time-line{
+  
+   margin-top: 1rem;
+   line-height:1.2rem;
+}
+li{
+    margin-bottom: 2rem;
+}
+.time-line ul{
+    text-align: left;
+    padding-left:30%;
+    padding-right: 30%;
+    padding-bottom: 2rem;
+   
+}
+.tribute-info{
+    text-align: left;
+    padding-left:30%;
+    padding-right: 30%;
+    padding-bottom: 0.5rem;
+}
+footer{
+    padding-bottom: 0.5rem;
+}
